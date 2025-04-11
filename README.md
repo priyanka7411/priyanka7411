@@ -67,7 +67,7 @@ I enjoy collaborating on real-world data challenges, open-source projects, or si
 
 - LinkedIn: [Priyanka Malavade](https://www.linkedin.com/in/priyanka-malavade-b34677298/)  
 - GitHub: [@priyanka7411](https://github.com/priyanka7411)  
-- Email: priyankamalavade@gmail.com
+- Email: priyasmalavade@gmail.com
 
 ---
 
