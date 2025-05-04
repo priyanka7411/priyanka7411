@@ -1,4 +1,3 @@
-
 # Hi, I'm Priyanka Malavade
 
 ### Data Analyst | Insight Seeker | Curious Thinker
@@ -7,14 +6,14 @@
 
 ## About Me
 
-I’m a results-driven Data Analyst with a deep interest in uncovering meaningful insights from complex data. I enjoy solving problems, automating processes, and building intuitive dashboards that drive better decision-making.
+I’m a detail-oriented and results-driven **Data Analyst** passionate about uncovering meaningful insights from complex data to drive business decisions. My approach combines analytical rigor with creative storytelling to solve problems, automate workflows, and design intuitive dashboards.
 
-With a foundation in data science and a creative approach to storytelling, I combine technical skills with curiosity to transform raw data into strategies that matter. My focus lies in creating analytical solutions that are not just functional, but impactful.
+I am currently enhancing my skills in advanced data visualization and machine learning, with a strong interest in applying data-driven solutions to real-world business challenges.
 
-- Currently building my expertise in advanced data visualization and machine learning
-- Interested in real-world business problems and the intersection of data and decision-making
-- Always learning and adapting to new tools, frameworks, and challenges
-- Outside of tech, I’m passionate about reading, experimenting with cooking, and simplifying technical concepts for others
+- Strong interest in data-informed decision-making and business strategy  
+- Focused on building efficient, automated solutions using Python  
+- Continuously learning and adapting to new tools, frameworks, and methodologies  
+- Outside of data, I enjoy reading, experimenting with cooking, and simplifying technical concepts for others
 
 ---
 
@@ -27,8 +26,8 @@ With a foundation in data science and a creative approach to storytelling, I com
 ### Data Analysis & Machine Learning
 - Pandas, NumPy, Scikit-learn  
 - XGBoost, LightGBM  
-- TensorFlow, PyTorch (beginner level)  
-- MLflow for experiment tracking
+- TensorFlow, PyTorch (Beginner level)  
+- MLflow (Experiment Tracking)
 
 ### Data Visualization & BI Tools
 - Power BI  
@@ -63,7 +62,7 @@ With a foundation in data science and a creative approach to storytelling, I com
 
 ## Let's Connect
 
-I enjoy collaborating on real-world data challenges, open-source projects, or simply having conversations around data, tech, and career growth.
+I'm open to collaborating on data-driven projects, contributing to open-source work, or having insightful conversations about analytics, technology, and career growth.
 
 - LinkedIn: [Priyanka Malavade](https://www.linkedin.com/in/priyanka-malavade-b34677298/)  
 - GitHub: [@priyanka7411](https://github.com/priyanka7411)  
@@ -72,3 +71,4 @@ I enjoy collaborating on real-world data challenges, open-source projects, or si
 ---
 
 *“Good decisions come from good insights. Great insights come from asking the right questions.”*
+
