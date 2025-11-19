@@ -116,11 +116,12 @@ Natural language processing for emotion classification
 
 <div align="center">
   
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka7411&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Priyanka's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyanka7411&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka7411&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyanka7411&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanka7411&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyanka7411&theme=radical&hide_border=true)
+
 
 </div>
 
