@@ -64,10 +64,10 @@ I'm a **detail-oriented and results-driven Data Analyst** passionate about uncov
 
 ### 🤖 AI & Machine Learning Projects
 
-#### 🧠 [AI-Powered Mental Wellness Companion](https://github.com/priyanka7411/mental-wellness-ai)
-> *Coming Soon* - Conversational AI with voice interaction and sentiment analysis for emotional wellness support
-- **Tech:** Python, Whisper, Hugging Face Transformers, ElevenLabs, Streamlit
-- **Features:** Real-time emotion detection, personalized recommendations, voice-to-text analysis
+#### 🧠 [Mental Wellness AI Companion](https://github.com/priyanka7411/mental-wellness-ai)
+Real-time emotion detection AI with personalized wellness support
+- **Tech:** Python, Transformers, DistilBERT, Streamlit, Plotly
+- **Features:** 6-emotion detection, analytics dashboard, chat export
 
 #### 🔍 [Fake News Detector with Explainable AI](https://github.com/priyanka7411/fake-news-detector)
 > *Coming Soon* - News credibility analyzer with transparent AI decision-making
