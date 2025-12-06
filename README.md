@@ -1,36 +1,49 @@
+# Hi, I'm Priyanka 👋
 
-# Hi, I'm Priyanka Malavade 👋
+I'm a data analyst who loves turning messy data into clear business insights. Fresh out of my BCA with a data science certification from GUVI, and I've spent the last month building real-world projects that solve actual business problems.
 
-**Data Analyst | BCA Graduate | GUVI Certified Data Scientist (2025)**
+## What I've Been Working On
 
-I transform data into actionable business insights and build solutions that drive real impact.
+I've built three end-to-end data analysis projects that tackle different business challenges:
 
-## 🔭 Current Focus
-- Building a portfolio of data analysis projects
-- Exploring advanced concepts in machine learning and business intelligence
-- Open to Data Analyst, Business Analyst, and BI Analyst opportunities
+**[Customer Segmentation & Marketing Analytics](https://github.com/priyanka7411/customer-segmentation-analysis)**  
+Used RFM analysis and K-Means clustering to segment 5,000 customers into actionable groups. Created targeted marketing strategies that could generate ₹1.36 Cr in revenue with a 3.59:1 ROI.
+- Python, Scikit-learn, K-Means, CLV Analysis, Marketing Strategy
 
-## 💼 Featured Projects
+**[HR Attrition Prediction System](https://github.com/priyanka7411/hr-attrition-analysis)**  
+Built a machine learning model (82% accuracy) that predicts which employees are likely to leave. The system identifies high-risk employees 6 months early and could save ₹1.35 Cr annually in turnover costs.
+- Python, Random Forest, SQL, Streamlit Dashboard, Predictive Analytics
 
-### [E-Commerce Sales Analysis](https://github.com/priyanka7411/ecommerce-sales-analysis)
-Analyzed $15.8M in revenue data, identified critical retention issues, and provided recommendations with $1.5M+ revenue impact potential.
-- **Tools**: Python, Pandas, Matplotlib, Seaborn
-- **Skills**: Business Analysis, Data Visualization, Statistical Analysis
+**[E-Commerce Sales Analysis](https://github.com/priyanka7411/ecommerce-sales-analysis)**  
+Analyzed $15.8M in revenue and discovered a 0% customer retention rate. Recommended a loyalty program strategy with $1.5M potential revenue impact.
+- Python, Pandas, Data Visualization, Business Metrics, Statistical Analysis
 
-## 🛠️ Technical Skills
-- **Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Statistical Analysis
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **Tools**: Jupyter Notebook, Git, VS Code
-- **Domains**: Business Intelligence, Customer Analytics, Performance Analysis
+## My Approach
 
-## 📫 Let's Connect
-- LinkedIn: [Priyanka Malavade](https://www.linkedin.com/in/priyanka-malavade-b34677298/)
-- Email: priyasmalavade@gmail.com
-- Portfolio: Check my repositories below 👇
+I believe good data analysis isn't just about finding patterns—it's about:
+- Solving real business problems (not just running models)
+- Quantifying impact in rupees and dollars
+- Making recommendations that people can actually implement
+- Explaining insights clearly to non-technical stakeholders
 
-## 📊 GitHub Stats
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka7411&show_icons=true&theme=radical)
+## What I Work With
+
+**Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Jupyter, Git, Streamlit
+
+**What I'm Good At:** Exploratory data analysis, machine learning (classification & clustering), data visualization, SQL queries, business intelligence, statistical analysis, ROI calculations
+
+**Domains I've Explored:** E-commerce, HR Analytics, Marketing Analytics, Customer Behavior
+
+## Currently
+
+Looking for opportunities as a Data Analyst, Business Analyst, or BI Analyst where I can help teams make better decisions with data. Open to remote and on-site roles.
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-malavade-b34677298/)
+- 📧 priyasmalavade@gmail.com
+- 📂 Browse my projects below
 
 ---
-💡 *"Data tells stories. I help businesses listen."*
+
+*Still learning, always curious, and excited about where data can take us next.*
